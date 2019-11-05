@@ -64,7 +64,7 @@ Then add proper language tag to the element:
 
 * Explicitly enable at least one OpenType layout feature.
   - For Internet Explorer 11. 
-  - It doesn’t matter that which feature is explicitly enabled, `ccmp` is generally okay.
+  - Whichever feature is explicitly enabled does not matter. `ccmp` is generally okay.
 
 ```html
 <style>
